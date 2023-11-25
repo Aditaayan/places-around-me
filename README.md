@@ -288,4 +288,4 @@ truffles.html
 
 
 ## Result:
-Write your result
+Image maps have been sucessfully developed
