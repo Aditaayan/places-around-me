@@ -277,13 +277,14 @@ truffles.html
 
 ## Output:
 #### Home Page
-![image](https://github.com/Nijeesh-bit/places-around-me/assets/89188014/b9dfa738-7892-497d-b5d9-ca240e58e537)
+![Screenshot from 2023-12-19 10-02-42](https://github.com/Aditaayan/places-around-me/assets/147473394/a4e80e67-04ab-4058-b9fc-1b58cdfcd63c)
+
 #### Sub Pages 
-![image](https://github.com/Nijeesh-bit/places-around-me/assets/89188014/13c2e4e9-1aef-41b3-90ed-586c5f12c8f9)
-![image](https://github.com/Nijeesh-bit/places-around-me/assets/89188014/b29ad0cf-7c9b-429b-866d-c0288f76c0ab)
-![image](https://github.com/Nijeesh-bit/places-around-me/assets/89188014/064ba67f-dbd9-48ab-8a78-8cc94d5c9e8a)
-![image](https://github.com/Nijeesh-bit/places-around-me/assets/89188014/3b4b4ddd-a4f8-4259-b138-db935c1fc531)
-![image](https://github.com/Nijeesh-bit/places-around-me/assets/89188014/875c4234-c2bb-4288-b65a-f1007510a85e)
+![Screenshot from 2023-12-19 10-07-48](https://github.com/Aditaayan/places-around-me/assets/147473394/f263902e-a9f5-4403-ac1e-86694206fa60)
+![Screenshot from 2023-12-19 10-08-30](https://github.com/Aditaayan/places-around-me/assets/147473394/54e10160-88d7-4f81-bb44-e31048822a60)
+![Screenshot from 2023-12-19 10-09-36](https://github.com/Aditaayan/places-around-me/assets/147473394/e9c6a415-bd84-4745-9c31-91d8da224fca)
+![Screenshot from 2023-12-19 10-10-15](https://github.com/Aditaayan/places-around-me/assets/147473394/f6254f57-f8d1-4750-98aa-b97a6d742b27)
+![Screenshot from 2023-12-19 10-10-37](https://github.com/Aditaayan/places-around-me/assets/147473394/5eb8ad56-0556-451f-8075-f62a8fee1c8b)
 
 
 
